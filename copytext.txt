@@ -1,0 +1,4 @@
+django\scripts\activate.bat
+cd desktop/django-project/mysited
+
+pip freeze > requirements.txt
